@@ -1,0 +1,25 @@
+.A{
+	background-color: grey;
+	font-size: 25px;
+}
+
+.C{
+	background-color: black;
+	border: 2px solid white;
+	font:message-box;
+ 	padding: 10px 20px;
+ 	margin-left:550px;
+ 	color:blue;
+ 	font-color:white;
+ 	text-decoration: none;
+ 	width:200px;
+
+}
+.C:hover{
+ 		background-color:blue;
+ 		color: #000;
+ 		transition: 0.6 ease;
+ 	}
+.D {
+	color: white;
+}
